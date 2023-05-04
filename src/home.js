@@ -12,7 +12,7 @@ homebtn.addEventListener('click', () => {
     figure.setAttribute('class', 'figure');
     const figImg = document.createElement('img');
     figImg.setAttribute('id', 'title-image');
-    figImg.setAttribute('src', './resources/Colourflute.jpg');
+    figImg.setAttribute('src', './resources/faviconio-logo/logo.png');
     figImg.setAttribute('decoding', 'sync')
     figImg.setAttribute('alt', 'Charmaine Bacon');
     figure.appendChild(figImg);
